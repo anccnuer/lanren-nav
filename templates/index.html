@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- side-bar-jia用于保持布局不变 -->
+<div id="side-bar-jia"></div>
+<div id="side-bar">
+    <img id="logo" src="/assets/logo.png" alt="">
+    <div><img src="/assets/pdf.png" alt=""></div>
+    <div><img src="/assets/word.png" alt=""></div>
+    <div><img src="/assets/picture.png" alt=""></div>
+</div>
+<div id="main">
+    <div id="top-bar" class="escape">
+        <div id="menu">
+            <a href="#">
+                <img src="/assets/home.png" alt="">
+                <span>首页</span>
+            </a>
+            <div onclick="author()">
+                <img src="/assets/author.png" alt="">
+                <span>作者</span>
+            </div>
+            <div onclick="about()">
+                <img src="/assets/about.png" alt="">
+                <span>关于</span>
+            </div>
+        </div>
+        <div id="slogan">
+            <div>懒人导航 |<span id="word">扫清你的糟心事儿😎</span></div>
+            <span>你还在为找不到在线工具而心烦吗？你还在为收藏夹混乱不堪而苦恼吗？</span>
+        </div>
+    </div>
+    <div id="content">
+        {{ section.content | safe }}
+        <div id="btm-bar">
+            <div>源于热爱，始于真🤎</div>
+            <div style="font-size: smaller;">由zola驱动 | ©copyright 2024</div>
+        </div>
+    </div>
+</div>
+<dialog id="dialog">
+    <h2 id="dialog-title">这是标题</h2>
+    <div id="dialog-content"></div>
+    <div id="button" onclick="exit()">关闭</div>
+</dialog>
+{% endblock content %}

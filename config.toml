@@ -1,0 +1,13 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+title = "懒人导航"
+compile_sass = true
+build_search_index = false
+default_language = "zh"
+minify_html = false
+
+[markdown]
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
