@@ -45,7 +45,7 @@
 {{ link(url="www.wjx.cn", icon="wjx.ico", name="问卷星",con="免费好用的问卷调查系统" ) }}
 </div>
 
-{{hl(id="nctu",content="幻灯文档")}}
+{{hl(id="hrdg",content="幻灯文档")}}
 
 <div class="container">
 {{ link(url="www.ypppt.com", icon="ypppt.ico", name="优品ppt",con="免费好用的ppt模板站❤" ) }}
