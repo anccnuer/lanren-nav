@@ -111,7 +111,7 @@
 
 {{ link(url="www.coolgenerator.com/fancy-text-generator", icon="coolgenerator.ico", name="Fancy Text",con="特殊字体生成" ) }}
 
-{{ link(url="dingzhen.work.gd", icon="dingzhen.png", name="一眼丁真",con="随机返回一眼丁真图" ) }}
+{{ linkhttp(url="dingzhen.work.gd", icon="dingzhen.png", name="一眼丁真",con="随机返回一眼丁真图" ) }}
 
 {{ link(url="www.qmsjmfb.com", icon="qmsjmfb.ico", name="网名在线生成器",con="一款支持多种生成模式的网名生成器" ) }}
 
