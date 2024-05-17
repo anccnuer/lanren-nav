@@ -6,6 +6,8 @@
 
 {{ link(url="ps.xieniao.com", icon="xieniao.png", name="血鸟在线ps",con="免费的，起码现在是" ) }}
 
+{{ link(url="design.palxp.cn", icon="palxp.svg", name="迅排设计",con="开源免费的在线海报设计" ) }}
+
 {{ link(url="www.yalijuda.com", icon="yali.png", name="图片/视频压缩",con="支持图片与多种格式视频压缩" ) }}
 
 {{ link(url="t.magicbackgroundremover.com", icon="bgmover.svg", name="背景去除",con="本地一键去除图片背景" ) }}
@@ -28,6 +30,8 @@
 {{ link(url="spacexcode.com/coverview/", icon="spacexcode.ico", name="封面图片生成",con="制作简单封面图的 Web 工具" ) }}
 
 {{ link(url="www.logocook.shop", icon="logocook.ico", name="logo厨师",con="Logo 制作工具" ) }}
+
+{{ link(url="photofunia.com/cn/", icon="photofunia.ico", name="photofunia",con="图片效果生成器，汇集各类图片效果生成，比如雪地写字效果、百老汇广告牌效果等，文字效果只适用英文和数字" ) }}
 </div>
 
 {{hl(id="geui",content="格式转换")}}
