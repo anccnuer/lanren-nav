@@ -10,11 +10,22 @@
 
 {{ link(url="www.remove.bg", icon="removebg.png", name="removebg",con="一键去除图片背景" ) }}
 
+{{ link(url="cutout.aiwave.cc", icon="aiwave.svg", name="未道帮AI抠图",con="在线ai抠图" ) }}
+
+{{ link(url="rmbg.fun", icon="rmbg.ico", name="rmbg",con="在线ai抠图" ) }}
+
+
 {{ link(url="www.gaitubao.com", icon="gaitubao.ico", name="改图宝",con="修改图片大小尺寸" ) }}
 
 {{ link(url="ezgif.com", icon="ezgif.png", name="ezgif",con="动图制作，视频转动图" ) }}
 
 {{ link(url="photokit.com", icon="photokit.png", name="photokit",con="在线修图工具箱，多种功能" ) }}
+
+{{ link(url="zm.i8k.tv", icon="zm.ico", name="字幕工具箱",con="视频字幕相关的工具集" ) }}
+
+{{ link(url="spacexcode.com/coverview/", icon="spacexcode.ico", name="封面图片生成",con="制作简单封面图的 Web 工具" ) }}
+
+{{ link(url="www.logocook.shop", icon="logocook.ico", name="logo厨师",con="Logo 制作工具" ) }}
 </div>
 
 {{hl(id="geui",content="格式转换")}}
@@ -40,6 +51,8 @@
 
 {{ link(url="www.processon.com", icon="processon.ico", name="ProcessOn",con="免费在线流程图思维导图" ) }}
 
+{{ link(url="www.tldraw.com", icon="tldraw.svg", name="tldraw",con="免费的在线白板工具" ) }}
+
 {{ link(url="wj.qq.com", icon="wj.png", name="腾讯问卷",con="免费好用的问卷调查系统" ) }}
 
 {{ link(url="www.wjx.cn", icon="wjx.ico", name="问卷星",con="免费好用的问卷调查系统" ) }}
@@ -49,5 +62,42 @@
 
 <div class="container">
 {{ link(url="www.ypppt.com", icon="ypppt.ico", name="优品ppt",con="免费好用的ppt模板站❤" ) }}
+
 {{ link(url="www.officeplus.cn/PPT/template/", icon="ms.svg", name="微软官方ppt模板",con="微软官方ppt模板" ) }}
+
+{{ link(url="slidemodel.com", icon="slidemodel.png", name="slidemodel",con="英文的ppt模板站" ) }}
+</div>
+
+{{hl(id="szso",content="搜索引擎")}}
+
+<div class="container">
+{{ link(url="www.searchforjohn.com", icon="searchforjohn.png", name="searchforjohn",con="聚合其他搜索引擎结果" ) }}
+
+{{ link(url="metaso.cn", icon="metaso.png", name="秘塔搜索",con="ai搜索引擎" ) }}
+
+{{ link(url="yandex.com", icon="yandex.png", name="Yandex",con="俄罗斯搜索引擎" ) }}
+
+{{ link(url="cn.bing.com", icon="bing.png", name="Bing",con="必应中国搜索引擎" ) }}
+
+{{ link(url="fsoufsou.com", icon="fsoufsou.ico", name="Fsou",con="干净清爽的搜索引擎" ) }}
+</div>
+
+{{hl(id="ai",content="AI工具")}}
+
+<div class="container">
+{{ link(url="kimi.moonshot.cn", icon="kimi.ico", name="kimi-AI",con="超大上下文的国产ai工具" ) }}
+
+{{ link(url="www.doubao.com", icon="doubao.png", name="豆包-AI",con="抖音开发的ai助手" ) }}
+
+{{ link(url="yiyan.baidu.com", icon="yiyan.ico", name="文心一言",con="百度开发的ai助手" ) }}
+</div>
+
+{{hl(id="moyu",content="摸鱼趣站")}}
+
+<div class="container">
+{{ link(url="www.animefilter.online", icon="animefilter.ico", name="animefilter",con="将头像照片转成三种动漫风格" ) }}
+
+{{ link(url="yorg.io", icon="yorg.ico", name="yorg.io",con="在线游戏，塔防、升级、防御僵尸" ) }}
+
+{{ link(url="www.silvergames.com", icon="silvergames.ico", name="silvergames",con="io游戏大全，在线玩" ) }}
 </div>

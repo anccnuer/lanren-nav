@@ -9,6 +9,7 @@ body {
     grid-auto-flow: row;
     grid-template-areas:
         ". .";
+    user-select: none;
 }
 
 #side-bar {
