@@ -4,6 +4,8 @@
 <div class="container">
 {{ link(url="ps.gaoding.com/#/", icon="gcdk.ico", name="稿定设计",con="在线版PS" ) }}
 
+{{ link(url="ps.xieniao.com", icon="xieniao.png", name="血鸟在线ps",con="免费的，起码现在是" ) }}
+
 {{ link(url="www.yalijuda.com", icon="yali.png", name="图片/视频压缩",con="支持图片与多种格式视频压缩" ) }}
 
 {{ link(url="t.magicbackgroundremover.com", icon="bgmover.svg", name="背景去除",con="本地一键去除图片背景" ) }}
@@ -105,7 +107,6 @@
 
 {{ link(url="www.silvergames.com", icon="silvergames.ico", name="silvergames",con="io游戏大全，在线玩" ) }}
 
-<!-- 未加图片 -->
 
 {{ link(url="www.16personalities.com/ch", icon="16personalities.png", name="MBTI测试",con="MBTI官方测试，免费" ) }}
 
@@ -113,9 +114,11 @@
 
 {{ linkhttp(url="dingzhen.work.gd", icon="dingzhen.png", name="一眼丁真",con="随机返回一眼丁真图" ) }}
 
-{{ link(url="www.qmsjmfb.com", icon="qmsjmfb.ico", name="网名在线生成器",con="一款支持多种生成模式的网名生成器" ) }}
+{{ link(url="www.qmsjmfb.com", icon="defaut.png", name="网名在线生成器",con="一款支持多种生成模式的网名生成器" ) }}
 
 {{ link(url="quanxin.org/image-slice", icon="quanxin.ico", name="九宫图生成器",con="朋友圈、微博、小红书必备" ) }}
+
+{{ link(url="cook.yunyoujun.cn", icon="yunyoujun.svg", name="食用手册",con="选择食材，组合菜谱" ) }}
 </div>
 
 {{hl(id="jihe",content="工具集合")}}
