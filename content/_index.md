@@ -92,6 +92,8 @@
 {{ link(url="www.doubao.com", icon="doubao.png", name="豆包-AI",con="抖音开发的ai助手" ) }}
 
 {{ link(url="yiyan.baidu.com", icon="yiyan.ico", name="文心一言",con="百度开发的ai助手" ) }}
+
+{{ link(url="ai.ccnu.eu.org", icon="aiccnu.svg", name="自建ai",con="开源自建ai网站" ) }}
 </div>
 
 {{hl(id="moyu",content="摸鱼趣站")}}
@@ -105,13 +107,15 @@
 
 <!-- 未加图片 -->
 
-{{ link(url="www.16personalities.com/ch", icon="16personalities.ico", name="MBTI测试",con="MBTI官方测试，免费" ) }}
+{{ link(url="www.16personalities.com/ch", icon="16personalities.png", name="MBTI测试",con="MBTI官方测试，免费" ) }}
 
 {{ link(url="www.coolgenerator.com/fancy-text-generator", icon="coolgenerator.ico", name="Fancy Text",con="特殊字体生成" ) }}
 
-{{ link(url="dingzhen.work.gd", icon="dingzhen.ico", name="一眼丁真",con="随机返回一眼丁真图" ) }}
+{{ link(url="dingzhen.work.gd", icon="dingzhen.png", name="一眼丁真",con="随机返回一眼丁真图" ) }}
 
 {{ link(url="www.qmsjmfb.com", icon="qmsjmfb.ico", name="网名在线生成器",con="一款支持多种生成模式的网名生成器" ) }}
+
+{{ link(url="quanxin.org/image-slice", icon="quanxin.ico", name="九宫图生成器",con="朋友圈、微博、小红书必备" ) }}
 </div>
 
 {{hl(id="jihe",content="工具集合")}}
@@ -120,5 +124,7 @@
 {{ link(url="tool.liumingye.cn", icon="liumingye.ico", name="刘明野的工具箱",con="好用的工具合集" ) }}
 
 {{ link(url="tool.browser.qq.com", icon="tool.ico", name="帮小忙",con="腾讯qq浏览器工具箱" ) }}
+
+{{ link(url="ol.woobx.cn", icon="woobx.ico", name="一个木函",con="工具箱-部分功能付费" ) }}
 
 </div>
