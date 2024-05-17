@@ -35,6 +35,8 @@
 
 {{ link(url="www.ilovepdf.com/zh-cn", icon="ilovepdf.png", name="ilovepdf",con="PDF合并、拆分、压缩、转换、加水印" ) }}
 
+{{ link(url="https://www.jyshare.com/unit-conversion/6906/", icon="jyshare.ico", name="大小写转换",con="英文字母大小写转换" ) }}
+
 </div>
 
 {{hl(id="nctu",content="脑图问卷")}}
@@ -100,4 +102,23 @@
 {{ link(url="yorg.io", icon="yorg.ico", name="yorg.io",con="在线游戏，塔防、升级、防御僵尸" ) }}
 
 {{ link(url="www.silvergames.com", icon="silvergames.ico", name="silvergames",con="io游戏大全，在线玩" ) }}
+
+<!-- 未加图片 -->
+
+{{ link(url="www.16personalities.com/ch", icon="16personalities.ico", name="MBTI测试",con="MBTI官方测试，免费" ) }}
+
+{{ link(url="www.coolgenerator.com/fancy-text-generator", icon="coolgenerator.ico", name="Fancy Text",con="特殊字体生成" ) }}
+
+{{ link(url="dingzhen.work.gd", icon="dingzhen.ico", name="一眼丁真",con="随机返回一眼丁真图" ) }}
+
+{{ link(url="www.qmsjmfb.com", icon="qmsjmfb.ico", name="网名在线生成器",con="一款支持多种生成模式的网名生成器" ) }}
+</div>
+
+{{hl(id="jihe",content="工具集合")}}
+
+<div class="container">
+{{ link(url="tool.liumingye.cn", icon="liumingye.ico", name="刘明野的工具箱",con="好用的工具合集" ) }}
+
+{{ link(url="tool.browser.qq.com", icon="tool.ico", name="帮小忙",con="腾讯qq浏览器工具箱" ) }}
+
 </div>
