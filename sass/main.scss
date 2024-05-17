@@ -252,6 +252,9 @@ body {
     border-radius: 0.5rem;
     text-align: center;
     box-shadow: 1px 0px 5px #00000081;
+    @media only screen and (max-width: 620px) {
+        transform: translate(-50%, -50%);
+    }
 
     #button {
         background-color: #7892c2;
