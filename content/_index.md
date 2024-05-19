@@ -41,7 +41,7 @@
 
 {{ link(url="www.ilovepdf.com/zh-cn", icon="ilovepdf.png", name="ilovepdf",con="PDF合并、拆分、压缩、转换、加水印" ) }}
 
-{{ link(url="https://www.jyshare.com/unit-conversion/6906/", icon="jyshare.ico", name="大小写转换",con="英文字母大小写转换" ) }}
+{{ link(url="www.jyshare.com/unit-conversion/6906/", icon="jyshare.ico", name="大小写转换",con="英文字母大小写转换" ) }}
 
 </div>
 
