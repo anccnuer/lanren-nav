@@ -110,7 +110,7 @@
 
 {{ link(url="www.silvergames.com", icon="silvergames.ico", name="silvergames",con="io游戏大全，在线玩" ) }}
 
-{{ link(url="couy.xyz/", icon="couy.png", name="挂机小游戏",con="全随机刷装备" ) }}
+{{ linkhttp(url="couy.xyz/", icon="couy.png", name="挂机小游戏",con="全随机刷装备" ) }}
 
 {{ linkhttp(url="game3.baifumeiba.com/dbj", icon="baifumeiba.png", name="旋转吧大宝剑",con="守住！守住！守住！" ) }}
 
