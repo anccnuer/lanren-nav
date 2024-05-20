@@ -105,12 +105,18 @@
 {{hl(id="moyu",content="摸鱼趣站")}}
 
 <div class="container">
-{{ link(url="www.animefilter.online", icon="animefilter.ico", name="animefilter",con="将头像照片转成三种动漫风格" ) }}
 
 {{ link(url="yorg.io", icon="yorg.ico", name="yorg.io",con="在线游戏，塔防、升级、防御僵尸" ) }}
 
 {{ link(url="www.silvergames.com", icon="silvergames.ico", name="silvergames",con="io游戏大全，在线玩" ) }}
 
+{{ link(url="couy.xyz/", icon="couy.png", name="挂机小游戏",con="全随机刷装备" ) }}
+
+{{ linkhttp(url="game3.baifumeiba.com/dbj", icon="baifumeiba.png", name="旋转吧大宝剑",con="守住！守住！守住！" ) }}
+
+{{ linkhttp(url="www.wesane.com/game/848/", icon="wesane.png", name="山楂串",con="摸鱼经典小游戏" ) }}
+
+{{ link(url="www.animefilter.online", icon="animefilter.ico", name="animefilter",con="将头像照片转成三种动漫风格" ) }}
 
 {{ link(url="www.16personalities.com/ch", icon="16personalities.png", name="MBTI测试",con="MBTI官方测试，免费" ) }}
 
