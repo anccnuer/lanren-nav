@@ -4,7 +4,7 @@ title = "懒人导航"
 compile_sass = true
 build_search_index = false
 default_language = "zh"
-minify_html = false
+minify_html = true
 
 [markdown]
 highlight_code = false
