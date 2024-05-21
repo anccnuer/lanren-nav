@@ -18,6 +18,7 @@
 
 {{ link(url="rmbg.fun", icon="rmbg.ico", name="rmbg",con="在线ai抠图" ) }}
 
+{{ link(url="ailogo.qq.com", icon="ailogo.ico", name="AIDesign",con="腾讯ai logo设计，好用！" ) }}
 
 {{ link(url="www.gaitubao.com", icon="gaitubao.ico", name="改图宝",con="修改图片大小尺寸" ) }}
 
