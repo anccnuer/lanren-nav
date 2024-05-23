@@ -152,8 +152,8 @@ body {
     h2 {
         margin: 0;
         padding: 1rem;
-        color: black;
-        opacity: 0.8;
+        color: rgba(0, 0, 0, 0.781);
+        // opacity: 0.8;
         font-size: 1.3rem;
 
         &::before {
@@ -184,7 +184,7 @@ body {
     border-radius: 0.3rem;
     text-decoration: none;
     margin: 0.5rem 1rem;
-    color: black;
+    color: rgba(0, 0, 0, 0.767);
     text-align: left;
     display: flex;
     align-items: center;
@@ -205,7 +205,7 @@ body {
 
     .site-name {
         font-weight: bolder;
-        opacity: 0.8;
+        // opacity: 0.8;
         padding-top: 0.8rem;
 
         @media only screen and (max-width: 620px) {
@@ -218,8 +218,8 @@ body {
 
     .site-description {
         width: 8rem;
-        opacity: 0.8;
-        color: rgba(0, 0, 0, 0.753);
+        // opacity: 0.8;
+        color: rgba(0, 0, 0, 0.699);
         font-size: 0.6rem;
         margin-top: 0.3rem;
         white-space: nowrap;
@@ -252,6 +252,7 @@ body {
     border-radius: 0.5rem;
     text-align: center;
     box-shadow: 1px 0px 5px #00000081;
+
     @media only screen and (max-width: 620px) {
         transform: translate(-50%, -50%);
     }
