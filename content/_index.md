@@ -121,6 +121,8 @@
 
 {{ link(url="www.animefilter.online", icon="animefilter.ico", name="animefilter",con="将头像照片转成三种动漫风格" ) }}
 
+{{ link(url="peepslab.com", icon="peepslab.ico", name="peepslab",con="调整参数，生成漫画风头像" ) }}
+
 {{ link(url="www.16personalities.com/ch", icon="16personalities.png", name="MBTI测试",con="MBTI官方测试，免费" ) }}
 
 {{ link(url="www.coolgenerator.com/fancy-text-generator", icon="coolgenerator.ico", name="Fancy Text",con="特殊字体生成" ) }}
