@@ -101,6 +101,8 @@
 {{ link(url="yiyan.baidu.com", icon="yiyan.ico", name="文心一言",con="百度开发的ai助手" ) }}
 
 {{ link(url="ai.ccnu.eu.org", icon="aiccnu.svg", name="自建ai",con="开源自建ai网站" ) }}
+
+{{ link(url="j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye", icon="feishu.ico", name="提示词教程",con="【胎教级教程】包教会" ) }}
 </div>
 
 {{hl(id="moyu",content="摸鱼趣站")}}
