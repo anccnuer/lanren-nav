@@ -138,6 +138,8 @@
 {{ link(url="quanxin.org/image-slice", icon="quanxin.ico", name="九宫图生成器",con="朋友圈、微博、小红书必备" ) }}
 
 {{ link(url="cook.yunyoujun.cn", icon="yunyoujun.svg", name="食用手册",con="选择食材，组合菜谱" ) }}
+
+{{ linkhttp(url="ffzy4.tv/", icon="ffzy.png", name="视频站",con="打不开可以尝试ffzy1-5.tv，总有一个能用" ) }}
 </div>
 
 {{hl(id="jihe",content="工具集合")}}
