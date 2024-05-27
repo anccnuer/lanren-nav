@@ -107,7 +107,7 @@
 
 <div class="container">
 
-{{ link(url="lipu.badiya.cn", icon="lipu.png", name="还你来当爹",con="AI逆子已就位，快叫爹" ) }}
+{{ link(url="lipu.badiya.cn", icon="lipu.png", name="换你来当爹",con="AI逆子已就位，快叫爹" ) }}
 
 {{ link(url="yorg.io", icon="yorg.ico", name="yorg.io",con="在线游戏，塔防、升级、防御僵尸" ) }}
 
