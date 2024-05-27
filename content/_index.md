@@ -102,6 +102,12 @@
 
 {{ link(url="ai.ccnu.eu.org", icon="aiccnu.svg", name="自建ai",con="开源自建ai网站" ) }}
 
+{{ link(url="chatglm.cn", icon="chatglm.ico", name="智谱清言",con="千亿参数对话模型" ) }}
+
+{{ link(url="www.coze.cn", icon="coze.png", name="扣子ai",con="抖音集团的ai" ) }}
+
+{{ link(url="tongyi.aliyun.com/qianwen/", icon="qianwen.png", name="通义千问",con="阿里的ai" ) }}
+
 {{ link(url="j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye", icon="feishu.ico", name="提示词教程",con="【胎教级教程】包教会" ) }}
 </div>
 
