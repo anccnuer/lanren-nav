@@ -89,6 +89,8 @@
 {{ link(url="cn.bing.com", icon="bing.png", name="Bing",con="必应中国搜索引擎" ) }}
 
 {{ link(url="fsoufsou.com", icon="fsoufsou.ico", name="Fsou",con="干净清爽的搜索引擎" ) }}
+
+{{ link(url="g.luciaz.me/", icon="google.png", name="浙大谷歌镜像",con="答案：心灵之约、水朝夕、csxy@123" ) }}
 </div>
 
 {{hl(id="ai",content="AI工具")}}
