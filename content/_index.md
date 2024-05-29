@@ -6,6 +6,8 @@
 
 {{ link(url="ps.xieniao.com", icon="xieniao.png", name="血鸟在线ps",con="免费的，起码现在是" ) }}
 
+{{ link(url="viliusle.github.io/miniPaint/", icon="minipaint.png", name="miniPaint",con="开源免费的在线图片编辑器" ) }}
+
 {{ link(url="design.palxp.cn", icon="palxp.svg", name="迅排设计",con="开源免费的在线海报设计" ) }}
 
 {{ link(url="www.yalijuda.com", icon="yali.png", name="图片/视频压缩",con="支持图片与多种格式视频压缩" ) }}
