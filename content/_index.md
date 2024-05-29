@@ -75,6 +75,8 @@
 {{ link(url="www.officeplus.cn/PPT/template/", icon="ms.svg", name="微软官方ppt模板",con="微软官方ppt模板" ) }}
 
 {{ link(url="slidemodel.com", icon="slidemodel.png", name="slidemodel",con="英文的ppt模板站" ) }}
+
+{{ link(url="zhiwen.xfyun.cn", icon="zhiwen.png", name="讯飞智文",con="免费ai生成ppt，科大讯飞" ) }}
 </div>
 
 {{hl(id="szso",content="搜索引擎")}}
