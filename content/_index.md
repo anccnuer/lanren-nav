@@ -154,6 +154,9 @@
 {{ link(url="cook.yunyoujun.cn", icon="yunyoujun.svg", name="食用手册",con="选择食材，组合菜谱" ) }}
 
 {{ linkhttp(url="ffzy4.tv/", icon="ffzy.png", name="视频站",con="打不开可以尝试ffzy1-5.tv，总有一个能用" ) }}
+
+{{ link(url="zh.tutu.us.kg", icon="tutu.png", name="书箱",con="书箱，zhihu盐选" ) }}
+
 </div>
 
 {{hl(id="jihe",content="工具集合")}}
