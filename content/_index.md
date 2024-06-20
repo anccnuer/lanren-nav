@@ -88,6 +88,8 @@
 
 {{ link(url="metaso.cn", icon="metaso.png", name="秘塔搜索",con="ai搜索引擎" ) }}
 
+{{ link(url="kaisouai.com", icon="kaiso.png", name="开搜ai搜索",con="ai搜索引擎" ) }}
+
 {{ link(url="yandex.com", icon="yandex.png", name="Yandex",con="俄罗斯搜索引擎" ) }}
 
 {{ link(url="cn.bing.com", icon="bing.png", name="Bing",con="必应中国搜索引擎" ) }}
