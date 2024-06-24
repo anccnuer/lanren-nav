@@ -116,6 +116,8 @@
 
 {{ link(url="tongyi.aliyun.com/qianwen/", icon="qianwen.png", name="通义千问",con="阿里的ai" ) }}
 
+{{ link(url="deepseek.com/", icon="deepseek.ico", name="深度求索",con="强到爆炸的ai" ) }}
+
 {{ link(url="chatexcel.com", icon="chatexcel.png", name="chatexcel",con="ai表格工具，北京大学出品" ) }}
 
 {{ link(url="j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye", icon="feishu.ico", name="提示词教程",con="【胎教级教程】包教会" ) }}
