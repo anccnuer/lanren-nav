@@ -171,5 +171,22 @@
 {{ link(url="tool.browser.qq.com", icon="tool.ico", name="帮小忙",con="腾讯qq浏览器工具箱" ) }}
 
 {{ link(url="ol.woobx.cn", icon="woobx.ico", name="一个木函",con="工具箱-部分功能付费" ) }}
+</div>
 
+{{hl(id="rrjm",content="破解软件")}}
+
+<div class="container">
+{{ link(url="www.ahhhhfs.com", icon="aj.webp", name="A姐分享",con="互联网精品资源" ) }}
+
+{{ link(url="www.ghxi.com", icon="goke.ico", name="果核剥壳",con="互联网的净土" ) }}
+
+{{ link(url="www.xinyucn.cc", icon="xbyu.ico", name="心语家园",con="绿色软件分享博客" ) }}
+
+{{ link(url="www.rjsos.com/win", icon="rjsos.png", name="玩机手册",con="win专业软件大全" ) }}
+
+{{ link(url="www.appinn.com", icon="xnvs.jpg", name="小众软件",con="好用的软件推荐" ) }}
+
+{{ link(url="bbs.leyuxyz.com", icon="leyu.png", name="乐愚社区",con="软件分享论坛" ) }}
+
+{{ link(url="www.52pojie.cn", icon="wuai.ico", name="吾爱破解",con="国内最大的破解软件交流社区" ) }}
 </div>
