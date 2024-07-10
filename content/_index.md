@@ -189,4 +189,7 @@
 {{ link(url="bbs.leyuxyz.com", icon="leyu.png", name="乐愚社区",con="软件分享论坛" ) }}
 
 {{ link(url="www.52pojie.cn", icon="wuai.ico", name="吾爱破解",con="国内最大的破解软件交流社区" ) }}
+
+{{ link(url="iui.su", icon="busi.png", name="不死鸟",con="不死鸟，分享为王" ) }}
+
 </div>
