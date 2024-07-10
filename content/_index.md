@@ -173,7 +173,7 @@
 {{ link(url="ol.woobx.cn", icon="woobx.ico", name="一个木函",con="工具箱-部分功能付费" ) }}
 </div>
 
-{{hl(id="rrjm",content="破解软件")}}
+{{hl(id="rrjm",content="软件资源")}}
 
 <div class="container">
 {{ link(url="www.ahhhhfs.com", icon="aj.webp", name="A姐分享",con="互联网精品资源" ) }}
