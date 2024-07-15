@@ -44,6 +44,8 @@
 
 {{ link(url="www.ilovepdf.com/zh-cn", icon="ilovepdf.png", name="ilovepdf",con="PDF合并、拆分、压缩、转换、加水印" ) }}
 
+{{ link(url="stirlingpdf.io/?lang=zh_CN", icon="stirlingpdf.png", name="stirling-pdf",con="满足您的所有PDF需求" ) }}
+
 {{ link(url="www.jyshare.com/unit-conversion/6906/", icon="jyshare.ico", name="大小写转换",con="英文字母大小写转换" ) }}
 
 </div>
