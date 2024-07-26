@@ -120,6 +120,8 @@
 
 {{ link(url="deepseek.com/", icon="deepseek.ico", name="深度求索",con="强到爆炸的ai" ) }}
 
+{{ link(url="ai-emoji.bettergogo.com", icon="ai-emoji.webp", name="ai-emoji",con="自然语言搜索emoji" ) }}
+
 {{ link(url="chatexcel.com", icon="chatexcel.png", name="chatexcel",con="ai表格工具，北京大学出品" ) }}
 
 {{ link(url="j1ohuigiiff.feishu.cn/wiki/RTVbwi6d9ivhyBka2rRcrNNgnye", icon="feishu.ico", name="提示词教程",con="【胎教级教程】包教会" ) }}
