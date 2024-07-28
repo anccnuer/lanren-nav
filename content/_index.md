@@ -12,6 +12,8 @@
 
 {{ link(url="www.yalijuda.com", icon="yali.png", name="图片/视频压缩",con="支持图片与多种格式视频压缩" ) }}
 
+{{ link(url="shoteasy.fun", icon="shoteasy.svg", name="ShotEasy",con="图片裁剪、压缩、滤镜、改大小" ) }}
+
 {{ link(url="t.magicbackgroundremover.com", icon="bgmover.svg", name="背景去除",con="本地一键去除图片背景" ) }}
 
 {{ link(url="www.remove.bg", icon="removebg.png", name="removebg",con="一键去除图片背景" ) }}
