@@ -106,6 +106,8 @@
 {{hl(id="ai",content="AI工具")}}
 
 <div class="container">
+{{ link(url="bot.360.com", icon="360.png", name="AI助手",con="由360牵头的混合大模型，集百家之所长" ) }}
+
 {{ link(url="kimi.moonshot.cn", icon="kimi.ico", name="kimi-AI",con="超大上下文的国产ai工具" ) }}
 
 {{ link(url="www.doubao.com", icon="doubao.png", name="豆包-AI",con="抖音开发的ai助手" ) }}
