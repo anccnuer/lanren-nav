@@ -134,6 +134,7 @@
 {{hl(id="moyu",content="摸鱼趣站")}}
 
 <div class="container">
+{{ link(url="goldprice.fun", icon="defaut.png", name="实时金价",con="查看国内国际金价，包含各金店品牌" ) }}
 
 {{ link(url="lipu.badiya.cn", icon="lipu.png", name="换你来当爹",con="AI逆子已就位，快叫爹" ) }}
 
